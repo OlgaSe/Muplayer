@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Muplayer</string>
+    <string name="currently_playing">Currently playing...</string>
+    <string name="job">Job</string>
+    <string name="workout">Workout</string>
+    <string name="relax">Relax</string>
+    <string name="party">Party</string>
+    <string name="travel">Travel</string>
+</resources>

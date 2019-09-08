@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#BDBDBD"
+    android:orientation="vertical"
+    tools:context="com.example.android.muplayer.MainActivity">
+
+    <TextView
+        android:id="@+id/job"
+        style="@style/CategoryStyle"
+        android:background="#8BC34A"
+        android:text="@string/job"/>
+
+    <TextView
+        android:id="@+id/workout"
+        style="@style/CategoryStyle"
+        android:background="#CDDC39"
+        android:text="@string/workout" />
+
+    <TextView
+        android:id="@+id/relax"
+        style="@style/CategoryStyle"
+        android:background="#FFEB3B"
+        android:text="@string/relax" />
+
+    <TextView
+        android:id="@+id/party"
+        style="@style/CategoryStyle"
+        android:background="#FFC107"
+        android:text="@string/party" />
+
+    <TextView
+        android:id="@+id/travel"
+        style="@style/CategoryStyle"
+        android:background="#FF9800"
+        android:text="@string/travel" />
+</LinearLayout>
